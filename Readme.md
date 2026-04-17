@@ -8,7 +8,7 @@ Desenvolver um dashboard interativo no Excel para análise de desempenho de vend
 
 ## 📷 Visão do Dashboard
 
-![Dashboard](images/Dashboard-Olist.png)
+<img src="images/dashboard-olist.png" width="100%">
 
 ---
 
@@ -16,7 +16,15 @@ Desenvolver um dashboard interativo no Excel para análise de desempenho de vend
 
 Você também pode visualizar o dashboard em PDF:
 
-[📥 Baixar Dashboard em PDF](Dashboard-Olist.pdf)
+[📥 Baixar Dashboard em PDF](dashboard-olist.pdf)
+
+---
+
+## 🚀 Como visualizar
+
+* Baixe o arquivo `.xlsx`
+* Abra no Excel
+* Utilize os filtros do dashboard para explorar os dados
 
 ---
 
@@ -69,9 +77,9 @@ Você também pode visualizar o dashboard em PDF:
 
 ## 📊 Principais Insights
 
-* Forte concentração de receita no estado de São Paulo
-* Crescimento consistente ao longo de 2017
-* Categorias como Beleza e Saúde e Relógios lideram faturamento
+* São Paulo concentra a maior parte da receita, indicando forte dependência regional
+* Crescimento consistente ao longo de 2017 sugere expansão do negócio
+* Categorias de maior valor agregado lideram faturamento
 
 ---
 
