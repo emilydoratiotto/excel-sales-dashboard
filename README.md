@@ -77,9 +77,9 @@ Você também pode visualizar o dashboard em PDF:
 
 ## 📊 Principais Insights
 
-* Alta concentração de receita no estado de São Paulo, indicando possível dependência regional
-* Crescimento consistente ao longo de 2017, sugerindo expansão do negócio
-* Categorias de maior valor agregado lideram faturamento
+* Alta concentração de receita no estado de São Paulo, indicando possível dependência regional e oportunidade de expansão para outros estados  
+* Crescimento consistente ao longo de 2017, sugerindo um cenário de expansão do e-commerce no período  
+* Categorias de maior valor agregado lideram o faturamento, indicando foco do consumidor em produtos premium  
 
 ---
 
