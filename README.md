@@ -30,8 +30,8 @@ Você também pode visualizar o dashboard em PDF:
 
 ## 📊 Principais Métricas (KPIs)
 
-* Faturamento Total
-* Total de Pedidos
+* Receita Total
+* Volume de Pedidos
 * Ticket Médio
 
 ---
@@ -77,8 +77,8 @@ Você também pode visualizar o dashboard em PDF:
 
 ## 📊 Principais Insights
 
-* São Paulo concentra a maior parte da receita, indicando forte dependência regional
-* Crescimento consistente ao longo de 2017 sugere expansão do negócio
+* Alta concentração de receita no estado de São Paulo, indicando possível dependência regional
+* Crescimento consistente ao longo de 2017, sugerindo expansão do negócio
 * Categorias de maior valor agregado lideram faturamento
 
 ---
